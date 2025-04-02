@@ -1,88 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Grayson Johnson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Grayson Johnson
+Interdisciplinarian, Entrepreneur, Firefighter, EMT.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/grayson-johnson-874043244/">LinkedIn</a>
+| <a href="https://graysondjohnson.weebly.com/">My design portfolio</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+A senior at BYU-Idaho
 
-### Specialized in
+### Studying
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Entrepreneurship and Innovation in Business - especially in apparel and design
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data science, innovation, leadership, communication, design
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__Highland Senior High School, Pocatello, ID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2021 - now`
+__BYU-Idaho, Rexburg, ID__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship
+- Minor in World Languages 
+    - Portuguese, Spanish
+- Certificate in Data Science
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Volunteer Experience
+__All In Sports Hoop.Camp__
+Sponsorship Intern | September, 2022 - December 2022
+- Generate sponsorships and donations for an international nonprofit organization f universities and companies in a sales environment
+- Responsibility for follow-up and accounts generated
+__The Church of Jesus Christ of Latter Day Saints__
+Full-Time Missionary | August, 2019 - July, 2021
+- Connected with individuals and families of diverse cultures, races, backgrounds, ages, and 
+- Coordinated training and communication with three teams of over twenty missionaries
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Work Experience
 
-- Warden
-- Minted coins
+`2019 - present`
+__Teton County Fire and Rescue__, Driggs, ID
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Wildland Firefighter and Hazaardous Fuels Crew
+- Reserve Structre Firefighter and EMT
 
+`2025`
+__Integrated Business Corps__, BYU-Idaho
 
+- Audit and Finance TA
+- Lead TA
 
 <!-- ### Footer
 
