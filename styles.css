@@ -1,1 +1,15 @@
 /* css styles */
+
+/* TOC style*/
+#TOC {
+    color:goldenrod
+}
+
+/* link style*/
+a:link {
+    color:goldenrod
+}
+
+a:visited {
+    color:goldenrod
+}
