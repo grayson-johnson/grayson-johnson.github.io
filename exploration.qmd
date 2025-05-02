@@ -4,7 +4,7 @@ subtitle: "DS 350 Independent Project"
 # use quarto markdown to 
 ---
 
-# Is surf culture prevalent (in apparel) outside of the coast?
-# Is there a market for inland surf apparel?
-## If yes, where is the best market?
+## Is surf culture prevalent (in apparel) outside of the coast?
+## Is there a market for inland surf apparel?
+### If yes, where is the best market?
 
