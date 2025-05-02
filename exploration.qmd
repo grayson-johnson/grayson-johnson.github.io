@@ -1,10 +1,10 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Inland Surfing"
+subtitle: "DS 350 Independent Project"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Is surf culture prevalent (in apparel) outside of the coast?
+# Is there a market for inland surf apparel?
+## If yes, where is the best market?
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
