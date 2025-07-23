@@ -1,5 +1,92 @@
 [
   {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "exploration.html#is-there-a-market-for-inland-surf-apparel",
+    "href": "exploration.html#is-there-a-market-for-inland-surf-apparel",
+    "title": "Inland Surfing",
+    "section": "Is there a market for inland surf apparel?",
+    "text": "Is there a market for inland surf apparel?\n\nIf yes, where is the best market?",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
     "title": "about me",
@@ -20,136 +107,33 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "exploration.html#is-there-a-market-for-inland-surf-apparel",
-    "href": "exploration.html#is-there-a-market-for-inland-surf-apparel",
-    "title": "Inland Surfing",
-    "section": "Is there a market for inland surf apparel?",
-    "text": "Is there a market for inland surf apparel?\n\nIf yes, where is the best market?",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Data Exploration"
+      "Machine Learning"
     ]
   },
   {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
+      "Data Cleansing",
       "Project 3"
     ]
   },
@@ -176,13 +160,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "Grayson and Data\nFrom time to time, there are individuals who seem to be born with code scrolling past the inner surface of their eyelids… This about me page is not about those individuals. I did not come from a heavy programming or statistical background. The majority of my undergraduate education focused on soft skills. I am an interdisciplinarian with a focus on entrepreneurship within the Family and Consumer sciences. I obtained a minor in World Languages by learning Spanish and Portuguese, living for 7 months in Rio de Janeiro, Brazil. I have a passion for innovation and and changing the world through sharing good ideas. Good data fues good ideas, and developed hard skills give backbone to developed soft skills.I started looking for a skill set to compliment the creative and communicative skills I had been working on. Not knowing what data science really was, I began to take a few courses… and slowly I fell in love with the tools that could hlep me problem solve and communicate in ways I never could have before. I began to learn a little about the world of programming, and, though it was humbling, it was also empowering. So here I am - Grayson Johnson: entrepreneur, communicator, amateur data scientist.\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
     "title": "about me",
@@ -200,222 +177,6 @@
     "text": "MarkDown Basics",
     "crumbs": [
       "Story Telling"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Grayson Johnson’s CV",
-    "section": "",
-    "text": "Interdisciplinarian, Entrepreneur, Firefighter, EMT.\n\nLinkedIn | My design portfolio\n\n\n\nA senior at BYU-Idaho\n\n\nEntrepreneurship and Innovation in Business - especially in apparel and design\n\n\n\nData science, innovation, leadership, communication, design\n\n\n\n\n2015 - 2019 Highland Senior High School, Pocatello, ID\nSeptember 2021 - now BYU-Idaho, Rexburg, ID\n\nBachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship\nMinor in World Languages\n\nPortuguese, Spanish\n\nCertificate in Data Science\n\n\n\n\nSeptember 2022 - January 2023 All In Sports Hoop.Camp Sponsorship Intern\n\nGenerate sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment\nResponsibility for follow-up and accounts generated\n\n2019 - 2021 The Church of Jesus Christ of Latter Day Saints Full-Time Missionary\n\nConnected with individuals and families of diverse cultures, races, backgrounds, and ages\nCoordinated training and communication with three teams of over twenty missionaries\n\n\n\n\n2019 - present Teton County Fire and Rescue, Driggs, ID\n\nWildland Firefighter and Hazaardous Fuels Crew\nReserve Structre Firefighter and EMT\n\n2025 Integrated Business Corps, BYU-Idaho\n\nAudit and Finance TA\nLead TA"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Grayson Johnson’s CV",
-    "section": "",
-    "text": "A senior at BYU-Idaho\n\n\nEntrepreneurship and Innovation in Business - especially in apparel and design\n\n\n\nData science, innovation, leadership, communication, design"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Grayson Johnson’s CV",
-    "section": "",
-    "text": "2015 - 2019 Highland Senior High School, Pocatello, ID\nSeptember 2021 - now BYU-Idaho, Rexburg, ID\n\nBachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship\nMinor in World Languages\n\nPortuguese, Spanish\n\nCertificate in Data Science"
-  },
-  {
-    "objectID": "resume.html#volunteer-experience",
-    "href": "resume.html#volunteer-experience",
-    "title": "Grayson Johnson’s CV",
-    "section": "",
-    "text": "September 2022 - January 2023 All In Sports Hoop.Camp Sponsorship Intern\n\nGenerate sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment\nResponsibility for follow-up and accounts generated\n\n2019 - 2021 The Church of Jesus Christ of Latter Day Saints Full-Time Missionary\n\nConnected with individuals and families of diverse cultures, races, backgrounds, and ages\nCoordinated training and communication with three teams of over twenty missionaries"
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Grayson Johnson’s CV",
-    "section": "",
-    "text": "2019 - present Teton County Fire and Rescue, Driggs, ID\n\nWildland Firefighter and Hazaardous Fuels Crew\nReserve Structre Firefighter and EMT\n\n2025 Integrated Business Corps, BYU-Idaho\n\nAudit and Finance TA\nLead TA"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
     ]
   },
   {
@@ -448,11 +209,38 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
   },
   {
     "objectID": "Cleansing_Exploration/project1.html",
@@ -460,5 +248,217 @@
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Grayson Johnson’s CV",
+    "section": "",
+    "text": "Interdisciplinarian, Entrepreneur, Firefighter, EMT.\n\nLinkedIn | My design portfolio\n\n\n\nOwner of a startup\n\n\nEntrepreneurship and Innovation in Business - especially in apparel and design\n\n\n\nData science, innovation, leadership, communication, design\n\n\n\n\nEnglish\nSpanish\nPortuguese\n\n\n\n\n\n2015 - 2019 Highland Senior High School, Pocatello, ID\nSeptember 2021 - July 2025 BYU-Idaho, Rexburg, ID\n\nBachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship\nMinor in World Languages\n\nPortuguese, Spanish\n\nCertificate in Data Science\n\n\n\n\nSeptember 2022 - January 2023 All In Sports Hoop.Camp Sponsorship Intern\n\nGenerated sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment\nResponsibility for follow-up and accounts generated\n\n2019 - 2021 The Church of Jesus Christ of Latter Day Saints Full-Time Missionary\n\nConnected with individuals and families of diverse cultures, races, backgrounds, and ages\nCoordinated training and communication with three teams of over twenty missionaries\n\n\n\n\nJune 2019 - present Teton County Fire and Rescue, Driggs, ID\n\nWildland Firefighter and Hazaardous Fuels Crew\nReserve Structre Firefighter and EMT\n\nJanuary 2025 - July 2025 Integrated Business Core (IBC), BYU-Idaho\n\nAudit and Finance TA\nLead TA\n\nLed a team of 9 TA’s\nCoordinated with faculty and students\nPlanned, ran, and supported large scale and complex student events\nGenerated and update meaningful charts and reports in R\n\n\nJuly 2025 - Present Rocky Mountain Surf Project (Startup)\n\nFounder and sole proprietor\nRegular manage inventory\nCreate and execute marketing plans involving social media\nProduct design and research\nOrganize and lead focus groups\nPerfrom weekly financial analysis\nGenerate meaningful charts and visualizations in R for research and marketing purposes"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Grayson Johnson’s CV",
+    "section": "",
+    "text": "Owner of a startup\n\n\nEntrepreneurship and Innovation in Business - especially in apparel and design\n\n\n\nData science, innovation, leadership, communication, design\n\n\n\n\nEnglish\nSpanish\nPortuguese"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Grayson Johnson’s CV",
+    "section": "",
+    "text": "2015 - 2019 Highland Senior High School, Pocatello, ID\nSeptember 2021 - July 2025 BYU-Idaho, Rexburg, ID\n\nBachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship\nMinor in World Languages\n\nPortuguese, Spanish\n\nCertificate in Data Science"
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Grayson Johnson’s CV",
+    "section": "",
+    "text": "September 2022 - January 2023 All In Sports Hoop.Camp Sponsorship Intern\n\nGenerated sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment\nResponsibility for follow-up and accounts generated\n\n2019 - 2021 The Church of Jesus Christ of Latter Day Saints Full-Time Missionary\n\nConnected with individuals and families of diverse cultures, races, backgrounds, and ages\nCoordinated training and communication with three teams of over twenty missionaries"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Grayson Johnson’s CV",
+    "section": "",
+    "text": "June 2019 - present Teton County Fire and Rescue, Driggs, ID\n\nWildland Firefighter and Hazaardous Fuels Crew\nReserve Structre Firefighter and EMT\n\nJanuary 2025 - July 2025 Integrated Business Core (IBC), BYU-Idaho\n\nAudit and Finance TA\nLead TA\n\nLed a team of 9 TA’s\nCoordinated with faculty and students\nPlanned, ran, and supported large scale and complex student events\nGenerated and update meaningful charts and reports in R\n\n\nJuly 2025 - Present Rocky Mountain Surf Project (Startup)\n\nFounder and sole proprietor\nRegular manage inventory\nCreate and execute marketing plans involving social media\nProduct design and research\nOrganize and lead focus groups\nPerfrom weekly financial analysis\nGenerate meaningful charts and visualizations in R for research and marketing purposes"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "Grayson and Data\nFrom time to time, there are individuals who seem to be born with code scrolling past the inner surface of their eyelids… This about me page is not about those individuals. I did not come from a heavy programming or statistical background. The majority of my undergraduate education focused on soft skills. I am an interdisciplinarian with a focus on entrepreneurship within the Family and Consumer sciences. I obtained a minor in World Languages by learning Spanish and Portuguese, living for 7 months in Rio de Janeiro, Brazil. I have a passion for innovation and and changing the world through sharing good ideas. Good data fues good ideas, and developed hard skills give backbone to developed soft skills.I started looking for a skill set to compliment the creative and communicative skills I had been working on. Not knowing what data science really was, I began to take a few courses… and slowly I fell in love with the tools that could hlep me problem solve and communicate in ways I never could have before. I began to learn a little about the world of programming, and, though it was humbling, it was also empowering. So here I am - Grayson Johnson: entrepreneur, communicator, amateur data scientist.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
   }
 ]
