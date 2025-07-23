@@ -13,7 +13,7 @@ Interdisciplinarian, Entrepreneur, Firefighter, EMT.
 
 ## Currently
 
-A senior at BYU-Idaho
+Owner of a startup
 
 ### Studying
 
@@ -24,13 +24,19 @@ Entrepreneurship and Innovation in Business - especially in apparel and design
 
 Data science, innovation, leadership, communication, design
 
+### Langauages
+
+- English
+- Spanish
+- Portuguese
+
 
 ## Education
 
 `2015 - 2019`
 __Highland Senior High School, Pocatello, ID__
 
-`September 2021 - now`
+`September 2021 - July 2025`
 __BYU-Idaho, Rexburg, ID__
 
 - Bachelor in Interdisciplinary Studies with concentration in Family Consumer Science Entrepreneurship
@@ -44,7 +50,7 @@ __BYU-Idaho, Rexburg, ID__
 __All In Sports Hoop.Camp__
 Sponsorship Intern 
 
-- Generate sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment
+- Generated sponsorships and donations for an international nonprofit organization from universities and companies in a sales environment
 - Responsibility for follow-up and accounts generated
 
 `2019 - 2021`
@@ -58,17 +64,32 @@ Full-Time Missionary
 
 ## Work Experience
 
-`2019 - present`
+`June 2019 - present`
 __Teton County Fire and Rescue__, Driggs, ID
 
 - Wildland Firefighter and Hazaardous Fuels Crew
 - Reserve Structre Firefighter and EMT
 
-`2025`
-__Integrated Business Corps__, BYU-Idaho
+`January 2025 - July 2025`
+__Integrated Business Core (IBC)__, BYU-Idaho
 
 - Audit and Finance TA
 - Lead TA
+    - Led a team of 9 TA's
+    - Coordinated with faculty and students
+    - Planned, ran, and supported large scale and complex student events 
+    - Generated and update meaningful charts and reports in R
+
+`July 2025 - Present`
+__Rocky Mountain Surf Project (Startup)__
+
+- Founder and sole proprietor
+- Regular manage inventory
+- Create and execute marketing plans involving social media
+- Product design and research
+- Organize and lead focus groups
+- Perfrom weekly financial analysis
+- Generate meaningful charts and visualizations in R for research and marketing purposes
 
 <!-- ### Footer
 
